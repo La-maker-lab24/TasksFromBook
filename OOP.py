@@ -1,7 +1,7 @@
 from random import shuffle
 
 class Card:
-    suits=["пикей",
+    suits=["пикеей",
            "червей",
            "бубей",
            "треф"]
